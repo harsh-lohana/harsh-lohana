@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Lohana</h1>
 <h3 align="center">Just curious about tech!</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning!
 
 - ⚡ Fun fact **I am funny in my head!**
 
