@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Lohana</h1>
 <h3 align="center">Just curious about tech!</h3>
 
-<p align="left"> <a href="https://twitter.com/_harsh_lohana_" target="blank"><img src="https://img.shields.io/twitter/follow/_harsh_lohana_?logo=twitter&style=for-the-badge" alt="_harsh_lohana_" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - ⚡ Fun fact **I am funny in my head!**
