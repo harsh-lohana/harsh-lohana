@@ -1,8 +1,8 @@
-#👨🏻‍💻 About Me:
+#  👨🏻‍💻 About Me:
 🔭 I’m currently working on a chat app<br>🌱 I’m currently learning the MERN Stack<br>⚡ Fun fact : I'm Batman!
 
 
-##🔗 Socials:
+## 🔗 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harsh_lohana_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-lohana) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_harsh_lohana_) 
 
 # 💻 Tech Stack:
