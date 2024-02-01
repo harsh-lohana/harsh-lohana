@@ -1,5 +1,5 @@
 #  👨🏻‍💻 About Me
-🔭 I’m currently working on a chat app<br>🌱 I’m currently learning the MERN Stack<br>⚡ Fun fact : I'm Batman!
+🔭 I’m currently working on a ReviNotion<br>🌱 I’m currently learning Next.Js, PostgreSQL, Prisma<br>⚡ Fun fact : I'm Batman!
 
 
 # 🔗 Socials
